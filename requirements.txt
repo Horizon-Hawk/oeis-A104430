@@ -1,0 +1,3 @@
+numpy
+numba
+cupy-cuda13x[ctk]  # GPU scripts only

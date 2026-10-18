@@ -1,0 +1,11 @@
+  n=20 chunk 1/10  jobs=1986050  launches=1194  running total 451732415  358s
+  n=20 chunk 2/10  jobs=1987858  launches=1194  running total 912903085  704s
+  n=20 chunk 3/10  jobs=1984986  launches=1194  running total 1365522207  1077s
+  n=20 chunk 4/10  jobs=1985793  launches=1160  running total 1812201761  1398s
+  n=20 chunk 5/10  jobs=1987560  launches=1194  running total 2267011683  1732s
+  n=20 chunk 6/10  jobs=1987266  launches=1194  running total 2733666836  2087s
+  n=20 chunk 7/10  jobs=1988897  launches=1194  running total 3187769091  2423s
+  n=20 chunk 8/10  jobs=1988677  launches=1194  running total 3639968353  2767s
+  n=20 chunk 9/10  jobs=1987836  launches=1194  running total 4107739595  3116s
+  n=20 chunk 10/10  jobs=452498  launches=1160  running total 4216283527  3365s
+GPU n=20  a=4216283527  NEW  base_jobs=1845570  3368.7s
