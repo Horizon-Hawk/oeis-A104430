@@ -1,7 +1,6 @@
 # Draft edit for A104430 (paste into https://oeis.org/edit?seq=A104430)
 
-Replace `[Name]` with your name exactly as registered on your OEIS account, and `https://github.com/Horizon-Hawk/oeis-A104430`
-with the public repository link.
+Replace `[Name]` with your name exactly as registered on your OEIS account.
 
 ## DATA (append one term)
 ```
