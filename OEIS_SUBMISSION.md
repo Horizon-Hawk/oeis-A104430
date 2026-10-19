@@ -1,6 +1,6 @@
 # Draft edit for A104430 (paste into https://oeis.org/edit?seq=A104430)
 
-Replace `[Name]` with your name exactly as registered on your OEIS account, and `[REPO URL]`
+Replace `[Name]` with your name exactly as registered on your OEIS account, and `https://github.com/Horizon-Hawk/oeis-A104430`
 with the public repository link.
 
 ## DATA (append one term)
@@ -10,7 +10,7 @@ with the public repository link.
 
 ## LINKS (add a line)
 ```
-[Name], <a href="[REPO URL]">Programs and logs for a(20)</a> (CPU and GPU searches).
+[Name], <a href="https://github.com/Horizon-Hawk/oeis-A104430">Programs and logs for a(20)</a> (CPU and GPU searches).
 ```
 
 ## PROG (add an entry)
